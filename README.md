@@ -75,35 +75,6 @@ The screenshot below shows the current desktop dashboard with live connection st
 
 For managed installation, downloads and version switching, use [XBStation Pilot App Launcher](https://github.com/xb-uav/pilot-app-launcher/releases/latest).
 
-## Platform availability
-
-<table width="100%" cellpadding="16">
-  <tr>
-    <td align="center" valign="middle" width="25%" height="128">
-      <strong>Windows</strong><br>
-      <sub>x86-64 · Available</sub><br><br>
-      <a href="https://github.com/xb-uav/XBStationPilotApp/releases/latest"><img src="https://img.shields.io/badge/DOWNLOAD-13B8A6?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows x64"></a>
-    </td>
-    <td align="center" valign="middle" width="25%" height="128">
-      <strong>macOS</strong><br>
-      <sub>Coming soon</sub><br><br>
-      <img src="https://img.shields.io/badge/COMING_SOON-334155?style=for-the-badge&logo=apple&logoColor=white" alt="macOS coming soon">
-    </td>
-    <td align="center" valign="middle" width="25%" height="128">
-      <strong>Linux</strong><br>
-      <sub>Coming soon</sub><br><br>
-      <img src="https://img.shields.io/badge/COMING_SOON-334155?style=for-the-badge&logo=linux&logoColor=white" alt="Linux coming soon">
-    </td>
-    <td align="center" valign="middle" width="25%" height="128">
-      <strong>Android</strong><br>
-      <sub>Coming soon</sub><br><br>
-      <img src="https://img.shields.io/badge/COMING_SOON-334155?style=for-the-badge&logo=android&logoColor=white" alt="Android coming soon">
-    </td>
-  </tr>
-</table>
-
-> An internet connection and valid XBStation access may be required, depending on the selected connection mode and deployment.
-
 ## Support
 
 For product questions, deployment support or feedback, visit the [XBStation contact page](https://xbstation.com/contact).
